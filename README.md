@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm James 👋
 
-<!--
-**jbiieeee/jbiieeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a 3rd-year BSIT student at TIP Manila. I enjoy building websites for both personal projects and school work.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- 🎨 Frontend: React, Vite
+- ⚙️ Backend: Laravel, Django
+- 🧠 Languages: Python, JavaScript, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- Focused on building full-stack web applications  
+- Continuously learning new tools and frameworks  
+- Interested in clean UI and efficient backend systems  
+
+### 🤝 Open to
+- Collaboration on web development projects  
+- Learning opportunities and new tech  
+- Building real-world applications with a team  
+
+---
+
+### 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jbiieeee)
+
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbiieeee&show_icons=true)
+
+---
+
+Feel free to connect or collaborate ✨
