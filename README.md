@@ -20,7 +20,7 @@ I'm currently a 3rd-year BSIT student at TIP Manila. I enjoy building websites f
 ---
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jbiieeee)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jbiieeee)](https://git.io/streak-stats)
 
 ---
 
