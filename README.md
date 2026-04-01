@@ -5,7 +5,7 @@ I'm currently a 3rd-year BSIT student at TIP Manila. I enjoy building websites f
 ### 🛠️ Tech Stack
 - 🎨 Frontend: React, Vite
 - ⚙️ Backend: Laravel, Django
-- 🧠 Languages: Python, PHP, JavaScript, CSS
+- 🌐 Languages: Python, PHP, JavaScript, CSS
 
 ### 🚀 About Me
 - I’m focused on building full-stack web applications  
