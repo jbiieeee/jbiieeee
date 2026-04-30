@@ -1,6 +1,6 @@
 ## Hi, I'm James 👋
 
-I'm currently a 3rd-year BSIT student at TIP Manila. I enjoy building websites for both personal projects and school work.
+I'm currently a incoming 4th year BSIT student at TIP Manila. I enjoy building websites for both personal projects and school work.
 
 ### 🛠️ Tech Stack
 - 🎨 Frontend: React, Vite
